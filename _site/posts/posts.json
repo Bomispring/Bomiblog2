@@ -2,18 +2,18 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to Bomi Blog2",
-    "description": "Welcome to our new blog, Bomi Blog2. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to my new blog, Bomi Blog2. I made this blog to enjoy Spring with you! :)",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Bomi Kim",
+        "url": "https://github.com/Bomispring/Bomiblog2"
       }
     ],
     "date": "2022-05-06",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-05-06T15:27:24+00:00",
+    "last_modified": "2022-05-06T15:50:28+00:00",
     "input_file": "welcome.knit.md"
   },
   {
