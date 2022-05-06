@@ -19,18 +19,18 @@
   {
     "path": "posts/2022-05-06-bomispring/",
     "title": "Bomispring",
-    "description": "A short description of the post.",
+    "description": "This is my first posting of Bomiblog2.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Bomi Kim",
+        "url": "https://github.com/Bomispring/Bomiblog2"
       }
     ],
     "date": "2022-05-06",
     "categories": [],
     "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-05-06T15:31:40+00:00",
+    "last_modified": "2022-05-06T16:00:53+00:00",
     "input_file": "bomispring.knit.md"
   }
 ]

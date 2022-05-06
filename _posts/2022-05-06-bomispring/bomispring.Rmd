@@ -1,10 +1,10 @@
 ---
 title: "Bomispring"
 description: |
-  A short description of the post.
+  This is my first posting of Bomiblog2.
 author:
-  - name: Nora Jones
-    url: https://example.com/norajones
+  - name: Bomi Kim
+    url: https://github.com/Bomispring/Bomiblog2
 date: 2022-05-06
 output:
   distill::distill_article:
