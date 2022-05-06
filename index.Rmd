@@ -1,0 +1,5 @@
+---
+title: "Bomi Blog2"
+site: distill::distill_website
+listing: posts
+---
